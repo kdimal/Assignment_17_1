@@ -1,6 +1,11 @@
+
+This repository contains a commparison of the following classifiers: K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. Utilizing the UCI repository which represents marketing campaigns for a Portuguese bank. Specifically, it contains 41,188 records related to multiple direct telemarketing campaigns. The goal is to predict if a client will subscribe to a term deposit (target variable y).  https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+Link to Jupyter Notebook: https://codio.com/kdimal178136121/module-17-1/tree/prompt_III.ipynb
+
 Model Performance Summary
 
-After evaluating the performance of four different classifiers—Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)—here’s what we found:
+After evaluating the performance of four different classifiers—Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM):
 
     Logistic Regression
     Train Time: 1.54 seconds (fast)
