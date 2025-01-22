@@ -33,10 +33,10 @@ After evaluating the performance of four different classifiers—Logistic Regres
 
 Overall Insights
 
-Best All-Rounder: Logistic Regression offers the best balance between speed, training accuracy, and test accuracy.
-Overfitting Issues: Decision Tree significantly overfits the training data, making it less suitable without tuning.
-Costly but Effective: SVM provides comparable accuracy to Logistic Regression but at a much higher computational expense.
-KNN's Trade-off: While KNN performs well, its slower training time makes it less scalable for larger datasets.
+    Best All-Rounder: Logistic Regression offers the best balance between speed, training accuracy, and test accuracy.
+    Overfitting Issues: Decision Tree significantly overfits the training data, making it less suitable without tuning.
+    Costly but Effective: SVM provides comparable accuracy to Logistic Regression but at a much higher computational expense.
+    KNN's Trade-off: While KNN performs well, its slower training time makes it less scalable for larger datasets.
 
 Recommendation
 
